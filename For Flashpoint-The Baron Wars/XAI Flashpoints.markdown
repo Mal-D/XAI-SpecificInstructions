@@ -10,8 +10,6 @@ The Mods in particular are
 
 Both mods have been supplied in the BattlePak but the **MapRandomiser** mod has been disabled as there is a slight incompatability that only manifests itself while playing the intial Story campaign. Supplying it in this state is necessary to prevent a "Map not Found" error softlocking the game.
 
-Unfortunatly, there is a slight incompatability that only manifests itself while playing the intial Story campaign. 
-
 # 1.    Players in Story Campaign Mode
 
 If you are planning playing the Kaema Story Campaign - Use the MODS button on the bottom Left of the Main Screen. Scroll through the list of Mods and make sure there is a 'disabled' Mod called MapRandomizer - this is normal and does not need any further action.

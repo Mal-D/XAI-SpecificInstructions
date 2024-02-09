@@ -32,7 +32,7 @@ Click - save and follow the game prompts. Restart the game. The Mod will now be 
 Before you launch into your new Career, there is a change you need you need to carry out. Use the MODS button on the bottom left of the Main start up game screen. 
 Scroll through the list of Mods and find the 'disabled' Mod called MapRandomizer and select the square on the left of the entry to enable the mod. Click - save and follow the game prompts. Restart the game. The Mod will now be enabled.
 
-At any later date you wish to play the Story Campaign you will need to set this Mod back to 'disabled' by following the 
+At any later date you wish to play the Story Campaign you will need to set this Mod back to 'disabled' by following the instructions in option 1.  
 
 ## 3.    Other important information
 

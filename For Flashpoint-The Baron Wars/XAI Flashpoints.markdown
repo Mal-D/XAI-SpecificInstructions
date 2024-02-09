@@ -1,14 +1,14 @@
 # IMPORTANT INFORMATION - PLEASE READ THIS
 
-We have included couple of Mods that in themselves don't add any player functionality however, they do add significant elements that provide Flashpoint actions that are not normally available and provide a more immersive game play.
+We have included couple of Mods - with the gracious permission from the authors @FrostRaptor and T-Bone - that in themselves don't add any player functionality however, they do add significant elements that allow Flashpoint actions that are not normally available and provide a more immersive game play.
 
 The Mods in particular are  
 
-    MapRandomiser
-    IRBTUtils
+    MapRandomiser Version: 1.2.0.3
+    IRBTUtils Version: 2.0.0
 
 
-Both mods have been supplied in the BattlePak but the **MapRandomiser** mod has its functionality turned **off** and this is so that those playing the Story Campaign can do so without the MapRandomiser mod causing a "Map not Found" error.
+Both mods have been supplied in the BattlePak but the **MapRandomiser** mod has been disabled as there is a slight incompatability that only manifests itself while playing the intial Story campaign. Supplying it in this state is necessary to prevent a "Map not Found" error softlocking the game.
 
 Unfortunatly, there is a slight incompatability that only manifests itself while playing the intial Story campaign. 
 

@@ -16,7 +16,7 @@ Unfortunatly, there is a slight incompatability that only manifests itself while
 
 If you are planning playing the Kaema Story Campaign - Use the MODS button on the bottom Left of the Main Screen. Scroll through the list of Mods and make sure there is a 'disabled' Mod called MapRandomizer - this is normal and does not need any further action.
 
-https://github.com/Mal-D/XAI-SpecificInstructions/blob/main/For%20MapRandomizer/Images/MapRandomizerSetup-0000.png
+https://github.com/Mal-D/XAI-SpecificInstructions/blob/main/For%20MapRandomizer/Images/MapRandomizerSetup-0003.png
 
 There is a file in the following directory 
 [game installation]\BATTLETECH\Mods\MapRandomizer called modstate.json it has only one line

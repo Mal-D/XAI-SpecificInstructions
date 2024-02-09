@@ -24,19 +24,15 @@ There is a file in the following directory
 this is set to prevent the error mentioned above error. 
 ### When you have completed the Campaign
 
-When you have finished the Story Campaign and you are planning to play the Open career Mode - Use the MODS button on the bottom Left of the Main Screen. Scroll through the list of Mods and find the 'disabled' Mod called MapRandomizer and select the square on the left of the entry to enable the mod. 
+When you have finished the Story Campaign and you are planning to play the Open career Mode - Use the MODS button on the bottom Left of the Main start up game Screen. Scroll through the list of Mods and find the 'disabled' Mod called MapRandomizer and select the square on the left of the entry to enable the mod. 
 Click - save and follow the game prompts. Restart the game. The Mod will now be enabled.
 
 # 2. Players jumping straight into Career Mode.    
 
-Before you launch into your new Career, there is a change you need you need to carry out. The file in the following directory 
-['gameinstallation']\BATTLETECH\Mods\MapRandomizer
- 
-called **modstate.json** it has only one line
+Before you launch into your new Career, there is a change you need you need to carry out. Use the MODS button on the bottom left of the Main start up game screen. 
+Scroll through the list of Mods and find the 'disabled' Mod called MapRandomizer and select the square on the left of the entry to enable the mod. Click - save and follow the game prompts. Restart the game. The Mod will now be enabled.
 
-1.    Change {"Enabled":false} to {"Enabled":true} and save the file.
-
-At any later date you wish to play the Story Campaign you will need to set this back to **false**
+At any later date you wish to play the Story Campaign you will need to set this Mod back to 'disabled' by following the 
 
 ## 3.    Other important information
 
